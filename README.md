@@ -29,6 +29,7 @@ Best UI/UX flutter mobile app template for e-ecommerce , with animation , busine
 *  discover network connectivity
 *  localization option
 *  support theme changer
+* provider statemanagment
 
 #### header 4
 * changing profile Data
